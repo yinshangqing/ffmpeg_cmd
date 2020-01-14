@@ -1,0 +1,1 @@
+ffmpeg -i video.mp4 -vcodec copy -acodec copy -ss 00:00:05 -to 00:00:15 video2.mp4

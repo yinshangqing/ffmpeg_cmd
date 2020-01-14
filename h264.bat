@@ -1,0 +1,1 @@
+ffmpeg -i video.mp4 -vcodec copy -an video.h264

@@ -1,0 +1,15 @@
+*.mp4
+*.aac
+*.json
+*.gif
+*.exe
+*/nginx-rtmp-win32/*
+*/video_test/*
+*.ts
+*.pcm
+*.png
+*.avi
+*.mp3
+*.yuv
+*.dat
+*.jpeg

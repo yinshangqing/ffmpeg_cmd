@@ -1,0 +1,1 @@
+ffmpeg -re -i video.mp4 -c copy -f mpegts video.ts
