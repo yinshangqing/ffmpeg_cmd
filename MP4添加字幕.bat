@@ -1,0 +1,1 @@
+ffmpeg -i video_1920x1080_new.mp4 -vf subtitles=Stardust5.ass video_1920x1080_plus.mp4
